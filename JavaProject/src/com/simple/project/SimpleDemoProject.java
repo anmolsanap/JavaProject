@@ -6,6 +6,7 @@ public class SimpleDemoProject {
 		System.out.println("name method");
 	}
 
+
 	public void display() {
 		System.out.println("display method");
 	}
